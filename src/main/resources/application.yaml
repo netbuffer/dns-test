@@ -1,0 +1,10 @@
+server:
+  port: 20001
+
+spring:
+  application:
+    name: @project.name@
+
+logging:
+  level:
+    cn.netbuffer: debug
